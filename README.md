@@ -8,4 +8,14 @@ currently running ver 2026.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0
 (or twenty twenty six point one then another twenty five point zeros, for short, or twenty twenty six point one point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero for long)
 
 RELEASE HISTORY:
+version 2026.Kinda2ButNotTooFarFromJustBeing.1.1 (2026.K2BNTFFJB.1.1):
+- Weird fix for the embedding bug (wherein the player gets stuck in the wall when teleporting
+- Added quit button
+- Main menu plays boing sound on launch
+- GUI on volcano works correctly now
+- Adjusted Target location on Volcano ;)
+- Messed with the window dimensions for no reason
+- Removed herobrine(?)
+
+
 version 2026.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 (AKA twenty twenty six point one point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero point zero (AKA twenty twenty six point one then another twenty five point zeros (AKA 2026.1.[25*.0]))) is the ORIGINAL VERSION OF THE GAME that was made in 9 hours for Hack Club Haven 2026 under the theme "bounce back"
